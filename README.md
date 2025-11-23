@@ -46,13 +46,6 @@
 
 <br/>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Narapati24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Narapati24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
