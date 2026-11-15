@@ -45,8 +45,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="./generated/overview.svg" alt="GitHub Overview" />
-  <img src="./generated/languages.svg" alt="Top Languages" />
+  <img src="./generated/metrics.svg" alt="GitHub Metrics" />
   <br/><br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Narapati24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
