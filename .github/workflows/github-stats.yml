@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, activity, repositories
+          base: ""
           config_timezone: Asia/Jakarta
           config_twemoji: yes
           plugin_languages: yes
